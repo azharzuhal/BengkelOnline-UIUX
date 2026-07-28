@@ -12,8 +12,6 @@ Aplikasi ini dirancang sebagai platform terintegrasi yang menjembatani pemilik k
 ## 🎬 Video Demo Aplikasi
 Saksikan penjelasannya serta demonstrasi fitur-fitur utama aplikasi Bengkelin pada video berikut:
 
-[![Bengkelin Apps and Features](https://youtu.be/Zr_UlAmweh4?si=wRf6aXMw4GMiAbGX)
-
 👉 **[Tonton Video Demo Aplikasi Bengkelin di YouTube](https://youtu.be/Zr_UlAmweh4?si=IMuoRFMxisV77SQ_)**
 
 ---
